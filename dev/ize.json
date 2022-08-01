@@ -6,10 +6,10 @@
             "bin": [
                 "ize.exe"
             ],
-            "hash": "f0e74ec948184dbff0c9eefb8f6414323685ea09ee40b738794fa6309f5f0986"
+            "hash": "01bfce7ceeeed518a7adde875bf85b648ad44ecd045cdb692a4b9aa7a14cd3b9"
         }
     },
     "homepage": "https://ize.sh/",
-    "license": "MIT",
+    "license": "Apache License 2.0",
     "description": "IZE is an opinionated infrastructure wrapper that allows to use multiple tools in one infra"
 }
