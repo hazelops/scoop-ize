@@ -1,0 +1,15 @@
+{
+    "version": "0.0.0-dev",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hazelops/ize/releases/download/0.0.0-dev/ize_0.0.0-dev_windows_amd64.zip",
+            "bin": [
+                "ize.exe"
+            ],
+            "hash": "f0e74ec948184dbff0c9eefb8f6414323685ea09ee40b738794fa6309f5f0986"
+        }
+    },
+    "homepage": "https://ize.sh/",
+    "license": "MIT",
+    "description": "IZE is an opinionated infrastructure wrapper that allows to use multiple tools in one infra"
+}
