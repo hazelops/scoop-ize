@@ -1,12 +1,12 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hazelops/ize/releases/download/1.1.6/ize_1.1.6_windows_amd64.zip",
+            "url": "https://github.com/hazelops/ize/releases/download/1.1.7/ize_1.1.7_windows_amd64.zip",
             "bin": [
                 "ize.exe"
             ],
-            "hash": "a479fe268ffe8932d3df88406ed2f1b903d8c34b341acae882d081c960e7ad95"
+            "hash": "034fe221bad751f794d9c81b52633aa8c632c233b7247954bcde27642f86fe9a"
         }
     },
     "homepage": "https://ize.sh/",
